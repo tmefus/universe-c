@@ -83,7 +83,7 @@ int main(int argc, char **argv) {
 
   int x = (glutGet(GLUT_SCREEN_WIDTH) - Width) / 2;
   int y = (glutGet(GLUT_SCREEN_HEIGHT) - Height) / 2;
-  glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);    // 使用RGB颜色,使用单缓冲
+  glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);    // 使用RGB颜色,使用双缓冲
   glutInitWindowSize(Width, Height);                        // 指定窗口大小
   glutInitWindowPosition(x, y);                             // 指定窗口位置
   glutCreateWindow("Civilization");                     // 新窗口标题
