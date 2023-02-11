@@ -1,0 +1,3 @@
+D:/C_Projects/Civilization/cmake-build-debug/CMakeFiles/Civilization.dir
+D:/C_Projects/Civilization/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C_Projects/Civilization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
